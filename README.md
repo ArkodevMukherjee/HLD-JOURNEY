@@ -10,7 +10,8 @@
 ***Harshal Chauhan***  
 Backend Developer • System Design • Distributed Systems  
 
-🔗 LinkedIn: https://www.linkedin.com/in/harshal8411  
+🔗 LinkedIn: 
+ https://www.linkedin.com/in/harshal8411  
 📧 Email: chauhanharshal8411@gmail.com  
 
 ---
